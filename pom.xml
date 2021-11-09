@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>wallmart-dev</name>
-	      <url>http://13.235.75.214:9980/mithuntechnologies/repository/wallmart-release/</url>
+	      <url>http://18.219.162.164:9980/mithuntechnologies/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>wallmart-dev-release-repo</name>
-	      <url>http://13.235.75.214:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
+	      <url>http://18.219.162.164:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
